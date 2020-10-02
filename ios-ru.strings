@@ -1,0 +1,11 @@
+/* XMSG: Error message when user tries to create item that already exists */
+"file" = "Ссылка истекает";
+
+/* XMSG: Error message when user tries to create item that already exists */
+"folder " = "Папка";
+
+/* XMSG: Server Error Message */
+"server " = "Сервер";
+
+/* XMSG: Error message when user tries to create item that already exists */
+"share " = "Акция";

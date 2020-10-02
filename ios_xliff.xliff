@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="testLocale/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="testLocale/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="5uY-wP-c2U.normalTitle">
+        <source>Log in</source>
+        <note>Class = "UIButton"; normalTitle = "Log in"; ObjectID = "5uY-wP-c2U"; Note = "XFLD: Label to Log in.";</note>
+      </trans-unit>
+      <trans-unit id="SIt-Wy-xUh.text">
+        <source>Title</source>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "SIt-Wy-xUh"; Note = "NOTR: Do not translate it.";</note>
+      </trans-unit>
+      <trans-unit id="UFO-gY-62L.text">
+        <source>Password:</source>
+        <note>Class = "UILabel"; text = "Password:"; ObjectID = "UFO-gY-62L"; Note = "XFLD: Label for password field.";</note>
+      </trans-unit>
+      <trans-unit id="W1b-oy-7eA.text">
+        <source>Please type in your username and password for authentication</source>
+        <note>Class = "UILabel"; text = "Please type in your username and password for authentication"; ObjectID = "W1b-oy-7eA"; Note = "XFLD: Label to describe for the user what to enter on the log on screen.";</note>
+      </trans-unit>
+      <trans-unit id="boG-eV-TpJ.text">
+        <source>Username:</source>
+        <note>Class = "UILabel"; text = "Username:"; ObjectID = "boG-eV-TpJ"; Note = "XFLD: Label for username field.";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="testLocale/Localizable.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="keyErrorLoginBody">
+        <source>Username or Password is missing</source>
+        <note>XMSG: Body of alert message about login failure.</note>
+      </trans-unit>
+      <trans-unit id="keyErrorLogonProcessFailedNoResponseBody">
+        <source>Check you credentials!</source>
+        <note>XMSG: Body of alert message about logon process failure.</note>
+      </trans-unit>
+      <trans-unit id="keyErrorLogonProcessFailedNoResponseTitle">
+        <source>Logon process failed!</source>
+        <note>XTIT: Title of alert message about logon process failure.</note>
+      </trans-unit>
+      <trans-unit id="keyRemoteNotificationArrived">
+        <source>Remote Notification arrived</source>
+        <note>XTIT: Title of message about the arrival of a new remote notification.</note>
+      </trans-unit>
+      <trans-unit id="keyRequiredPlaceholder">
+        <source>Required</source>
+        <note>XSEL: Placeholder text for required but currently empty textfield.</note>
+      </trans-unit>
+      <trans-unit id="keyUpdateEntityFinishedBody">
+        <source>The operation was successful</source>
+        <note>XMSG: Body of alert message about successful entity update.</note>
+      </trans-unit>
+      <trans-unit id="keyUpdateEntityFinishedTitle">
+        <source>Update entry finished</source>
+        <note>XTIT: Title of alert message about successful entity update.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
